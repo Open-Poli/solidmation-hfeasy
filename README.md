@@ -2,7 +2,7 @@
 
 ## 📝 Solidmation - HFEasy Firmware
     
-Fork del repositorio HFEasy con la adaptación para toma corrientes inteligentes marca Solidmation
+Fork del repositorio HFEasy con la adaptación para toma corrientes inteligentes marca Solidmation e integración con Telegram
 
 # hfeasy
 Firmware for devices using the HF-LPx100 or LPB130 modules.
